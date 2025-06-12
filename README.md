@@ -1,7 +1,7 @@
 # 📈 Stock Pulse
 Stock Pulse is a full-stack web application that analyzes real-time stock data and Reddit sentiment to generate AI-driven investment recommendations.
 
-Built to practice managing a multi-layered product with frontend/backend integration, third-party APIs, and a real-world user experience.
+Built to practice managing multilayered, interconnected products.
 
 ## 🚀 Features
 🔍 Search any stock ticker (e.g., AAPL, NVDA)
@@ -14,20 +14,12 @@ Built to practice managing a multi-layered product with frontend/backend integra
 
 💡 Fully responsive UI with error handling and loading states
 
-## 🧠 Tech Stack
+## 🧪 Tech Stack
 Frontend: React (Vite), deployed via Vercel
 
 Backend: FastAPI, deployed via Render
 
-AI & Data Sources:
-
-Google Gemini
-
-Finnhub API
-
-SerpAPI
-
-Other: Tailored CORS config, custom prompt engineering, error state logic
+AI & Data Sources: Google Gemini, Finnhub API, SerpAPI
 
 ## ⚙️ Running Locally
 Prerequisites
@@ -53,13 +45,10 @@ npm install
 npm run dev
 
 ## 🌐 Live Demo
-Frontend: https://stock-pulse-brown.vercel.app
-Backend: https://stock-pulse-api.onrender.com
+https://stock-pulse-brown.vercel.app
 
 ## 🧑‍💼 Project Motivation
-After completing a smaller project (9C Test), I wanted to go deeper and learn how to plan and manage a multi-part product. Stock Pulse gave me the opportunity to design a tool end-to-end — including a clean user interface, backend architecture, and intelligent API coordination.
-
-I focused on managing complexity, prioritizing usability, and building robust error-handling into the system — key PM skills I wanted to grow.
+After building 9C Test, I wanted to go deeper — not just into coding, but into managing complex, interconnected projects. I came up with Stock Pulse, an app that analyzes stock sentiment by combining market data, Reddit discussions, and AI-generated recommendations. It required coordinating three backend APIs and a frontend UI—an ideal opportunity to learn how to scope, sequence, and manage a full-stack build from idea to execution.
 
 ## ⚠️ Disclaimer
 Stock Pulse is for informational purposes only and does not constitute financial, investment, or trading advice. All content, including AI-generated analysis, is provided "as is" and may not reflect real-time market conditions. Always conduct your own research and consult a licensed financial advisor before making investment decisions.
