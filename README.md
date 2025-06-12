@@ -47,7 +47,7 @@ npm run dev
 ## 🌐 Live Demo
 https://stock-pulse-brown.vercel.app
 
-## 🧑‍💼 Project Motivation
+## 💡 Project Motivation
 After building 9C Test, I wanted to go deeper — not just into coding, but into managing complex, interconnected projects. I came up with Stock Pulse, an app that analyzes stock sentiment by combining market data, Reddit discussions, and AI-generated recommendations. It required coordinating three backend APIs and a frontend UI—an ideal opportunity to learn how to scope, sequence, and manage a full-stack build from idea to execution.
 
 ## ⚠️ Disclaimer
