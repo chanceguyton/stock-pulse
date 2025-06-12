@@ -62,6 +62,6 @@ After completing a smaller project (9C Test), I wanted to go deeper and learn ho
 I focused on managing complexity, prioritizing usability, and building robust error-handling into the system — key PM skills I wanted to grow.
 
 ## ⚠️ Disclaimer
-Stock Pulse is for informational purposes only and does not constitute financial advice. All AI-generated content is provided "as is."
+Stock Pulse is for informational purposes only and does not constitute financial, investment, or trading advice. All content, including AI-generated analysis, is provided "as is" and may not reflect real-time market conditions. Always conduct your own research and consult a licensed financial advisor before making investment decisions.
 
-Let me know if you'd like a badge-based version, portfolio-optimized version, or tailored for recruiters.
+
