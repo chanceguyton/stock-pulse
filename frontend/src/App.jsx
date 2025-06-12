@@ -16,7 +16,7 @@ function App() {
   setLoading(true);
   setError(null);  // Clear any previous error
   try {
-    const response = await fetch(`https://stock-pulse-api.onrender.com.app/api/analyze?ticker=${ticker}`);
+    const response = await fetch(`https://stock-pulse-api.onrender.com/app/api/analyze?ticker=${ticker}`);
     const data = await response.json();
 
     if (data.error) {
