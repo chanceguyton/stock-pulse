@@ -1,9 +1,9 @@
-📈 Stock Pulse
+#📈 Stock Pulse
 Stock Pulse is a full-stack web application that analyzes real-time stock data and Reddit sentiment to generate AI-driven investment recommendations.
 
 Built to practice managing a multi-layered product with frontend/backend integration, third-party APIs, and a real-world user experience.
 
-🚀 Features
+##🚀 Features
 🔍 Search any stock ticker (e.g., AAPL, NVDA)
 
 📈 Displays live stock data, valuation metrics, and recent earnings
@@ -14,7 +14,7 @@ Built to practice managing a multi-layered product with frontend/backend integra
 
 💡 Fully responsive UI with error handling and loading states
 
-🧠 Tech Stack
+##🧠 Tech Stack
 Frontend: React (Vite), deployed via Vercel
 
 Backend: FastAPI, deployed via Render
@@ -29,7 +29,7 @@ SerpAPI
 
 Other: Tailored CORS config, custom prompt engineering, error state logic
 
-⚙️ Running Locally
+##⚙️ Running Locally
 Prerequisites
 Python 3.11+
 
@@ -51,16 +51,17 @@ Edit
 cd frontend
 npm install
 npm run dev
-🌐 Live Demo
-Frontend: https://stock-pulse.vercel.app
+
+##🌐 Live Demo
+Frontend: https://stock-pulse-brown.vercel.app
 Backend: https://stock-pulse-api.onrender.com
 
-🧑‍💼 Project Motivation
+##🧑‍💼 Project Motivation
 After completing a smaller project (9C Test), I wanted to go deeper and learn how to plan and manage a multi-part product. Stock Pulse gave me the opportunity to design a tool end-to-end — including a clean user interface, backend architecture, and intelligent API coordination.
 
 I focused on managing complexity, prioritizing usability, and building robust error-handling into the system — key PM skills I wanted to grow.
 
-⚠️ Disclaimer
+##⚠️ Disclaimer
 Stock Pulse is for informational purposes only and does not constitute financial advice. All AI-generated content is provided "as is."
 
 Let me know if you'd like a badge-based version, portfolio-optimized version, or tailored for recruiters.
